@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.pytest_cache/
+*.pyc
+.DS_Store
+data/*.h5
+data/*.mat
