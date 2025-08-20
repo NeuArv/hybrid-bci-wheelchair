@@ -6,17 +6,17 @@
 
 **Title:** Design and Implementation of Hybrid BCI based Wheelchair
 
-**Authors / Source:** Mansi Kambli et al.  
+**Authors / Source:** Arvind Gyandatt Mishra, Poonam Chawda, Heeral Dedhia, Arvind Sridhar, Prof. Mansi Kambli, Prof. Sushma Kadge
 **PDF (source):** https://www.researchgate.net/profile/Mansi-Kambli/publication/356207033_Design_and_Implementation_of_Hybrid_BCI_based_Wheelchair/links/67bd46d2f5cb8f70d5be9f56/Design-and-Implementation-of-Hybrid-BCI-based-Wheelchair.pdf
 
 ## Description
 This repository is a companion scaffold for the paper "Design and Implementation of Hybrid BCI based Wheelchair". It provides a structure for code, data, and reproducible scripts related to hybrid brain–computer interface (BCI) control of a wheelchair. The repo intentionally does not include the original PDF; use the ResearchGate link above to access the paper. Respect copyright and redistribution terms of the original publisher.
 
 ## Contents (scaffold)
-- `src/hybrid_bci/` — package for core models, signal processing, and control logic (place your implementation here)
+- `src/hybrid_bci/` — package for core models, signal processing, and control logic 
 - `scripts/` — reproducible scripts (e.g., `run_demo.py`, `process_data.py`)
 - `notebooks/` — Jupyter notebooks for analysis and figures
-- `data/` — small example data or metadata (do not commit large raw datasets)
+- `data/` — small example data or metadata 
 - `tests/` — pytest tests for core functionality
 - `docs/` — supplementary documentation and method notes
 - `CITATION.bib`, `CITATION.cff` — citation metadata
@@ -49,4 +49,4 @@ Please cite the original paper when using results from it. Example (bibtex) in `
 - The paper PDF is hosted on ResearchGate; check copyright and reuse permissions before redistribution. See `NOTICES.md` for guidance.
 
 ## Contact / Maintainer
-Companion repo created for: Mansi Kambli et al.
+Arvind Gyandatt Mishra — https://www.linkedin.com/in/arvind-gyandatt-mishra-a6760a16b/
