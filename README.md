@@ -277,7 +277,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Related Publications
 
 For more details on the methodology and results, see our paper on ResearchGate:
-[Design and Implementation of Hybrid BCI based Wheelchair](https://www.researchgate.net/publication/370928408_Design_and_Implementation_of_Hybrid_BCI_based_Wheelchair)
+[Design and Implementation of Hybrid BCI based Wheelchair](https://www.researchgate.net/publication/356207033_Design_and_Implementation_of_Hybrid_BCI_based_Wheelchair)
 
 ## Contact
 
