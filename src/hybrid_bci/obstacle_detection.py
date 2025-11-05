@@ -5,7 +5,6 @@ This module uses an ultrasonic sensor to detect obstacles and prevent
 collisions by stopping the wheelchair when objects are too close.
 
 Project Name: Mindwave Automation - Brain Controlled Wheelchair
-Author List: Heeral Dedhia, Arvind Sridhar, Poonam Chawda, Arvind Mishra
 """
 
 import time
@@ -188,4 +187,5 @@ def check_obstacle(motor_instance=None, blink_callback=None):
         print(f"Moving Forward - Distance: {distance:.1f} cm")
         if blink_callback:
             blink_callback()
+
 
