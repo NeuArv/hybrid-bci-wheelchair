@@ -6,7 +6,6 @@ on Raspberry Pi. It controls two DC motors via a motor driver for forward,
 backward, turning, and speed control.
 
 Project Name: Mindwave Automation - Brain Controlled Wheelchair
-Author List: Heeral Dedhia, Arvind Sridhar, Poonam Chawda, Arvind Mishra
 """
 
 import time
@@ -210,4 +209,5 @@ def speed_medium():
 def speed_high():
     """Set high speed"""
     _get_controller().speed_high()
+
 
