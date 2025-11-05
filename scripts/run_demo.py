@@ -7,7 +7,6 @@ attention levels from the EEG headset. When attention is above threshold,
 the wheelchair moves forward while continuously monitoring for obstacles.
 
 Project Name: Mindwave Automation - Brain Controlled Wheelchair
-Author List: Heeral Dedhia, Arvind Sridhar, Poonam Chawda, Arvind Mishra
 
 Usage:
     python scripts/run_demo.py [--port PORT] [--attention-threshold THRESHOLD]
@@ -158,4 +157,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
