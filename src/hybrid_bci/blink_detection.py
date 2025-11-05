@@ -5,7 +5,6 @@ This module detects eye blinks from EEG raw signals and classifies them
 as single, double, or triple blinks for wheelchair control commands.
 
 Project Name: Mindwave Automation - Brain Controlled Wheelchair
-Author List: Heeral Dedhia, Arvind Sridhar, Poonam Chawda, Arvind Mishra
 """
 
 import time
@@ -168,4 +167,5 @@ def run_blink_detection(port="/dev/rfcomm0", duration=60):
         return result
     finally:
         neuropy.stop()
+
 
