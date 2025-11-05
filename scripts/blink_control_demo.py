@@ -7,7 +7,6 @@ Double blink: Turn right
 Triple blink: Turn left
 
 Project Name: Mindwave Automation - Brain Controlled Wheelchair
-Author List: Heeral Dedhia, Arvind Sridhar, Poonam Chawda, Arvind Mishra
 
 Usage:
     python scripts/blink_control_demo.py [--port PORT]
@@ -76,4 +75,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
