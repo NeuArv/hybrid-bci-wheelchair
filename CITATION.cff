@@ -1,8 +1,34 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite the original paper and this repository."
+message: "If you use this software, please cite it as below."
+title: "Hybrid BCI Wheelchair - Brain-Computer Interface Control System"
+type: software
 authors:
+  - family-names: "Mishra"
+    given-names: "Arvind Gyandatt"
+    orcid: ""
+  - family-names: "Chawda"
+    given-names: "Poonam"
+  - family-names: "Dedhia"
+    given-names: "Heeral"
+  - family-names: "Sridhar"
+    given-names: "Arvind"
   - family-names: "Kambli"
     given-names: "Mansi"
-title: "Hybrid-BCI-Wheelchair companion code"
-version: "0.1.0"
-url: "https://www.researchgate.net/profile/Mansi-Kambli/publication/356207033_Design_and_Implementation_of_Hybrid_BCI_based_Wheelchair/links/67bd46d2f5cb8f70d5be9f56/Design-and-Implementation-of-Hybrid-BCI-based-Wheelchair.pdf"
+  - family-names: "Kadge"
+    given-names: "Sushma"
+repository-code: "https://github.com/NeuArv/hybrid-bci-wheelchair"
+url: "https://github.com/NeuArv/hybrid-bci-wheelchair"
+abstract: "A hybrid brain-computer interface system for wheelchair control using Neurosky Mindwave EEG headset with attention-based control, blink detection, and obstacle avoidance."
+keywords:
+  - brain-computer-interface
+  - BCI
+  - EEG
+  - wheelchair-control
+  - assistive-technology
+  - neurosky
+  - raspberry-pi
+  - hybrid-BCI
+license: MIT
+version: "1.0.0"
+date-released: "2024-01-01"
+

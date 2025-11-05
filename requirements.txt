@@ -1,5 +1,22 @@
-numpy
-scipy
-mne
-pytest
-pandas
+# Hybrid BCI Wheelchair - Python Dependencies
+
+# Core serial communication for Neurosky Mindwave
+pyserial>=3.5
+
+# Raspberry Pi GPIO (only available on Raspberry Pi)
+# On non-RPi systems, the code will run in simulation mode
+# RPi.GPIO>=0.7.1
+
+# Optional: Data logging and analysis
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Optional: Testing
+pytest>=7.0.0
+pytest-cov>=3.0.0
+
+# Optional: Development tools
+black>=22.0.0
+flake8>=4.0.0
+mypy>=0.950
+
