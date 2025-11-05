@@ -40,7 +40,7 @@ Includes usage examples and function signatures.
 For detailed methodology and experimental results, see the original research paper:
 
 **"Design and Implementation of Hybrid BCI based Wheelchair"**
-- Link: https://www.researchgate.net/publication/370928408_Design_and_Implementation_of_Hybrid_BCI_based_Wheelchair
+- Link: [Design_and_Implementation_of_Hybrid_BCI_based_Wheelchair](https://www.researchgate.net/publication/356207033_Design_and_Implementation_of_Hybrid_BCI_based_Wheelchair)
 - Authors: Arvind Gyandatt Mishra, Poonam Chawda, Heeral Dedhia, Arvind Sridhar, Prof. Mansi Kambli, Prof. Sushma Kadge
 
 ## Contributing Documentation
@@ -68,4 +68,5 @@ Future documentation improvements:
 For questions about the documentation or to suggest improvements:
 - **GitHub Issues**: https://github.com/NeuArv/hybrid-bci-wheelchair/issues
 - **LinkedIn**: https://www.linkedin.com/in/arvind-gyandatt-mishra-a6760a16b/
+
 
