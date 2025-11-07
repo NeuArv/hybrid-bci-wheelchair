@@ -12,7 +12,7 @@ This software is a companion implementation for the research paper:
 
 - **Authors**: Arvind Gyandatt Mishra, Poonam Chawda, Heeral Dedhia, Arvind Sridhar, Prof. Mansi Kambli, Prof. Sushma Kadge
 - **Published on**: ResearchGate
-- **DOI/Link**: https://www.researchgate.net/publication/370928408_Design_and_Implementation_of_Hybrid_BCI_based_Wheelchair
+- **DOI/Link**: [Design_and_Implementation_of_Hybrid_BCI_based_Wheelchair](https://www.researchgate.net/publication/356207033_Design_and_Implementation_of_Hybrid_BCI_based_Wheelchair)
 
 ### Paper Copyright Notice
 
@@ -65,4 +65,5 @@ We thank:
 - NeuroSky for providing accessible EEG hardware
 - The Raspberry Pi Foundation for enabling embedded BCI applications
 - All contributors and users of this project
+
 
